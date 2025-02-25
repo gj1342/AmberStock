@@ -1,0 +1,59 @@
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterAcc.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Transaction.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.user_settings.resources
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterAcc.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Transaction.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.user_settings.resources
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SCHOOL WORKS\3RD YEAR\DATABASE ADMIN\PROJECT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

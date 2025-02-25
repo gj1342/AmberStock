@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\school works\\3rd year\\database admin\\project\\windowsformsapp1\\windowsformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\user settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\user settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\windowsformsapp1\\user settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9945E19C-A525-464A-BF01-379F60648A12}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\user settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Transaction.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Transaction.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Transaction.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Transaction.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Transaction.cs",
+              "ViewState": "AQIAANABAAAAAAAAAAAjwOABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Main.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Main.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Register.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Product.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Product.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Product.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Product.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:24:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Product.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Register.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Register.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAewGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Main.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAnwEgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Customer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user settings.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\user settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\user settings.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\user settings.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\user settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Customer.cs",
+              "ToolTip": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\Customer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Customer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAIAwwLYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user settings.cs [Design]",
+              "DocumentMoniker": "D:\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\user settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\user settings.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\PERSONAL REQUIREMENTS\\SCHOOL WORKS\\3RD YEAR\\DATABASE ADMIN\\PROJECT\\WindowsFormsApp1\\WindowsFormsApp1\\user settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-25T14:24:25.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
